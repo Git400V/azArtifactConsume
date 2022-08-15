@@ -4,6 +4,7 @@ namespace azArtifactConsume
 {
     class Program
     {
+
         
         //sq merge
         static void Main(string[] args)
